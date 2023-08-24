@@ -1,0 +1,28 @@
+sudo apt update
+sudo apt install git
+git --version
+
+
+mkdir projectb1
+cd projectb1
+
+git init
+git config --global user.name "username"
+git config --global user.email "email"
+
+Created the Project files
+git status
+git add .
+git commit -m "Informative Message"
+
+
+GITHUB
+Created the Repo
+Created the token (classic)
+
+
+git remote add b11 repoURL
+git push b11 master
+
+
+
